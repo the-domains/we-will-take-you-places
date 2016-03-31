@@ -1,0 +1,28 @@
+name: We will take you places
+favicon: null
+layout_spectrum: 0.48548682732507586
+typography_spectrum: 0.28248513699509203
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.0803508572280407
+  lightness: 0.5632824772037566
+  saturation: 0.9280176183674484
+  rhythmicContrast: 0.15782619640231133
+purpose: []
