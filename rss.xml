@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[We will take you places]]></title>
+        <description><![CDATA[We will take you places]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 31 Mar 2016 22:26:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e099b98-b0e1-4abe-be51-82e2a3e7db7f.jpg" alt="I&apos;m an image caption" title="" />]]></description>
+            <link>undefinedtesting-out-how-this-gridio-thing-works-i-am-so-dubious/index.html</link>
+            <guid isPermaLink="false">0f1b482c-5aa3-47b6-b2fc-e67745d619c9</guid>
+            <pubDate>Thu, 31 Mar 2016 22:26:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
